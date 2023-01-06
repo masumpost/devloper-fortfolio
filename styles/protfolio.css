@@ -105,3 +105,79 @@ margin-bottom: 30px;}
     font-weight: 700;
     font-size: 20px;
 }
+.section2{
+    text-align: center;
+    padding: 150px;
+}
+.section2 .section2-title{
+    color: #181818;
+    padding: 30px;  
+}
+.skills{
+    display: flex;
+}
+.skills .hskills{
+    padding: 40px;
+}
+.skills .ski4{
+    text-align: center;
+}
+.skills .slill1{
+   padding: 10px;
+   border: 2px solid black;
+   margin: 10px;
+   border-radius: 5px;
+   box-shadow: 2px 2px 2px red;
+   width: 267px;
+}
+
+.summary{
+    text-align: center;
+}
+.summary .summary-title{
+    color: #181818;
+    padding: 150px;
+}
+
+.section4{
+   display: flex;
+}
+.ex{
+    padding: 10px;
+}
+
+.exh3{
+    padding-bottom: 10px;
+}
+.exh4{
+    padding-bottom: 5px;
+}
+.pra{
+    padding-bottom: 15px;
+}
+.section5{
+    margin: 80px;
+    text-align: center;
+}
+.button{
+    background-color: #FD6E0A;
+    color: #FFF8F3;
+    padding: 7px;
+    text-decoration: none;
+    border: none;
+}
+
+/* last section */
+.last-section{
+    display: flex;
+}
+.cmh3{
+    padding: 10px;
+}
+.cmpra{
+    padding: 10px;
+}
+.cm{
+    padding: 15px;
+    text-align: left;
+}
